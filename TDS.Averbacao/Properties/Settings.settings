@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TDS.Averbacao.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="TDS_Averbacao_br_com_averba_webserver_ATMWebSvr" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://webserver.averba.com.br/20/index.soap</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

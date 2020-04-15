@@ -1,0 +1,229 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "DllExport/1.7.0": {
+        "type": "package",
+        "compile": {
+          "lib/net20/_._": {}
+        },
+        "runtime": {
+          "lib/net20/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DllExport/1.7.0": {
+      "sha512": "FvLcJw8sc+TEr3T1XSTfQpporJ0MBNTVJEoLd79ScP1ORiXTz9TWG0M1nXX758oCaa5iYGz0A25L72PcDUtsHQ==",
+      "type": "package",
+      "path": "dllexport/1.7.0",
+      "hasTools": true,
+      "files": [
+        ".gitattributes",
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "3rd-party.txt",
+        "DllExport.bat",
+        "License.txt",
+        "Readme.md",
+        "build_info.txt",
+        "changelog.txt",
+        "dllexport.1.7.0.nupkg.sha512",
+        "dllexport.nuspec",
+        "hMSBuild.bat",
+        "lib/net20/_._",
+        "lib/netstandard1.1/_._",
+        "packages/DllExport.1.7.0/.gitattributes",
+        "packages/DllExport.1.7.0/3rd-party.txt",
+        "packages/DllExport.1.7.0/DllExport.bat",
+        "packages/DllExport.1.7.0/DllExport.nuspec",
+        "packages/DllExport.1.7.0/License.txt",
+        "packages/DllExport.1.7.0/Readme.md",
+        "packages/DllExport.1.7.0/build_info.txt",
+        "packages/DllExport.1.7.0/changelog.txt",
+        "packages/DllExport.1.7.0/gcache/metacor/System.Runtime.InteropServices/DllExport.dll",
+        "packages/DllExport.1.7.0/gcache/metacor/System.Runtime.InteropServices/DllExport.dll.ddNSi",
+        "packages/DllExport.1.7.0/gcache/metacor/System.Runtime.InteropServices/DllExport.xml",
+        "packages/DllExport.1.7.0/gcache/metalib/System.Runtime.InteropServices/DllExport.dll",
+        "packages/DllExport.1.7.0/gcache/metalib/System.Runtime.InteropServices/DllExport.dll.ddNSi",
+        "packages/DllExport.1.7.0/gcache/metalib/System.Runtime.InteropServices/DllExport.xml",
+        "packages/DllExport.1.7.0/hMSBuild.bat",
+        "packages/DllExport.1.7.0/lib/net20/_._",
+        "packages/DllExport.1.7.0/lib/netstandard1.1/_._",
+        "packages/DllExport.1.7.0/tools/Conari.dll",
+        "packages/DllExport.1.7.0/tools/Conari.xml",
+        "packages/DllExport.1.7.0/tools/Microsoft.Build.Framework.dll",
+        "packages/DllExport.1.7.0/tools/Microsoft.Build.Utilities.v4.0.dll",
+        "packages/DllExport.1.7.0/tools/Microsoft.Build.dll",
+        "packages/DllExport.1.7.0/tools/Mono.Cecil.dll",
+        "packages/DllExport.1.7.0/tools/Mono.Cecil.pdb",
+        "packages/DllExport.1.7.0/tools/MvsSln.dll",
+        "packages/DllExport.1.7.0/tools/MvsSln.pdb",
+        "packages/DllExport.1.7.0/tools/MvsSln.xml",
+        "packages/DllExport.1.7.0/tools/NSBin.dll",
+        "packages/DllExport.1.7.0/tools/NSBin.pdb",
+        "packages/DllExport.1.7.0/tools/PeViewer.exe",
+        "packages/DllExport.1.7.0/tools/PeViewer.pdb",
+        "packages/DllExport.1.7.0/tools/RGiesecke.DllExport.MSBuild.dll",
+        "packages/DllExport.1.7.0/tools/RGiesecke.DllExport.MSBuild.pdb",
+        "packages/DllExport.1.7.0/tools/RGiesecke.DllExport.dll",
+        "packages/DllExport.1.7.0/tools/RGiesecke.DllExport.pdb",
+        "packages/DllExport.1.7.0/tools/coreclr/.version.txt",
+        "packages/DllExport.1.7.0/tools/coreclr/LICENSE.TXT",
+        "packages/DllExport.1.7.0/tools/coreclr/PATENTS.TXT",
+        "packages/DllExport.1.7.0/tools/coreclr/README.md",
+        "packages/DllExport.1.7.0/tools/coreclr/changelog.txt",
+        "packages/DllExport.1.7.0/tools/coreclr/clrgc.dll",
+        "packages/DllExport.1.7.0/tools/coreclr/coreclr.dll",
+        "packages/DllExport.1.7.0/tools/coreclr/ilasm.exe",
+        "packages/DllExport.1.7.0/tools/coreclr/ildasm.exe",
+        "packages/DllExport.1.7.0/tools/coreclr/ildasmrc.dll",
+        "packages/DllExport.1.7.0/tools/coreclr/mscordaccore.dll",
+        "packages/DllExport.1.7.0/tools/coreclr/mscordbi.dll",
+        "packages/DllExport.1.7.0/tools/gnt.bat",
+        "packages/DllExport.1.7.0/tools/hMSBuild.bat",
+        "packages/DllExport.1.7.0/tools/init.ps1",
+        "packages/DllExport.1.7.0/tools/net.r_eg.DllExport.Wizard.dll",
+        "packages/DllExport.1.7.0/tools/net.r_eg.DllExport.Wizard.pdb",
+        "packages/DllExport.1.7.0/tools/net.r_eg.DllExport.Wizard.targets",
+        "packages/DllExport.1.7.0/tools/net.r_eg.DllExport.targets",
+        "packages/DllExport.1.7.0/tools/raw/lib/net20/DllExport.dll",
+        "packages/DllExport.1.7.0/tools/raw/lib/net20/DllExport.xml",
+        "packages/DllExport.1.7.0/tools/raw/lib/netstd/DllExport.dll",
+        "packages/DllExport.1.7.0/tools/raw/lib/netstd/DllExport.xml",
+        "tools/Conari.dll",
+        "tools/Conari.xml",
+        "tools/Microsoft.Build.Framework.dll",
+        "tools/Microsoft.Build.Utilities.v4.0.dll",
+        "tools/Microsoft.Build.dll",
+        "tools/Mono.Cecil.dll",
+        "tools/Mono.Cecil.pdb",
+        "tools/MvsSln.dll",
+        "tools/MvsSln.pdb",
+        "tools/MvsSln.xml",
+        "tools/NSBin.dll",
+        "tools/NSBin.pdb",
+        "tools/PeViewer.exe",
+        "tools/PeViewer.pdb",
+        "tools/RGiesecke.DllExport.MSBuild.dll",
+        "tools/RGiesecke.DllExport.MSBuild.pdb",
+        "tools/RGiesecke.DllExport.dll",
+        "tools/RGiesecke.DllExport.pdb",
+        "tools/coreclr/.version.txt",
+        "tools/coreclr/LICENSE.TXT",
+        "tools/coreclr/PATENTS.TXT",
+        "tools/coreclr/README.md",
+        "tools/coreclr/changelog.txt",
+        "tools/coreclr/clrgc.dll",
+        "tools/coreclr/coreclr.dll",
+        "tools/coreclr/ilasm.exe",
+        "tools/coreclr/ildasm.exe",
+        "tools/coreclr/ildasmrc.dll",
+        "tools/coreclr/mscordaccore.dll",
+        "tools/coreclr/mscordbi.dll",
+        "tools/gnt.bat",
+        "tools/hMSBuild.bat",
+        "tools/init.ps1",
+        "tools/net.r_eg.DllExport.Wizard.dll",
+        "tools/net.r_eg.DllExport.Wizard.pdb",
+        "tools/net.r_eg.DllExport.Wizard.targets",
+        "tools/net.r_eg.DllExport.targets",
+        "tools/raw/lib/net20/DllExport.dll",
+        "tools/raw/lib/net20/DllExport.xml",
+        "tools/raw/lib/netstd/DllExport.dll",
+        "tools/raw/lib/netstd/DllExport.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "DllExport >= 1.7.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Matheus Desktop\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
+      "projectName": "TDS.Averbacao",
+      "projectPath": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
+      "packagesPath": "C:\\Users\\Matheus Desktop\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Matheus Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "DllExport": {
+            "target": "Package",
+            "version": "[1.7.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+D:\Projects\TDS.Averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.dll.config
+D:\Projects\TDS.Averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.dll
+D:\Projects\TDS.Averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.pdb
+D:\Projects\TDS.Averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.csproj.CoreCompileInputs.cache
+D:\Projects\TDS.Averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.dll
+D:\Projects\TDS.Averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.pdb
