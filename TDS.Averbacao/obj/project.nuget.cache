@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RcFuCZEMkMd+eyTU8BLD8d9GuW3c+UjXTDHzh6K3zmanpdBw3+OP0WLKj1q+4RA//xVeWlTx2c5tHrUlpmylBw==",
+  "dgSpecHash": "O4q7TGJYZuVv8kbFrlIYj6qEds78LqJnBN2qCO5nwOQaKa0MHnSW6n2nV50Z1L/LExQzE/tR7POAyefe5yWJBA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
+  "projectFilePath": "C:\\Users\\Matheus Desktop\\Source\\Repos\\TdsSoftware\\tds-averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matheus Desktop\\.nuget\\packages\\dllexport\\1.7.0\\dllexport.1.7.0.nupkg.sha512"
   ],

@@ -4,3 +4,9 @@ D:\Projects\TDS.Averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.pdb
 D:\Projects\TDS.Averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.csproj.CoreCompileInputs.cache
 D:\Projects\TDS.Averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.dll
 D:\Projects\TDS.Averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.pdb
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.dll.config
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.dll
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\bin\Debug\TDS.Averbacao.pdb
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.dll
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.pdb

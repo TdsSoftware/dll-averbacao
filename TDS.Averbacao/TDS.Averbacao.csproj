@@ -70,6 +70,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Services\AverbacaoATeM.cs" />
+    <Compile Include="Services\SerializeXml.cs" />
     <Compile Include="Web References\br.com.averba.webserver\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

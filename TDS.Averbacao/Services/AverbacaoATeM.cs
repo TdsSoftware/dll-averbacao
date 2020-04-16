@@ -5,13 +5,19 @@ namespace TDS.Averbacao.Services
 {
     public class AverbacaoATeM
     {
-        public readonly static ATMWebSvr client = new ATMWebSvr();
+        public static readonly ATMWebSvr client = new ATMWebSvr();
 
         [DllExport]
-        public static string AverbarCTe()
+        public static string AverbarCTe(string usuario, string senha, string codAtm, string tipoDoc, string xml)
         {
-            var result = client.averbaCTe("usuario", "senha", "codatm", "xmlCte");
-            return result.ToString();
+            if (tipoDoc == "CT")
+            {
+                return client.averbaCTe(usuario, senha, codAtm, xml).Serialize<Retorno>();
+            }
+            else
+            {
+                return client.declaraMDFe(usuario, senha, codAtm, xml).Serialize<RetornoMDFe>();
+            }
         }
     }
 }

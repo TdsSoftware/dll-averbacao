@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj": {}
+    "C:\\Users\\Matheus Desktop\\Source\\Repos\\TdsSoftware\\tds-averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj": {
+    "C:\\Users\\Matheus Desktop\\Source\\Repos\\TdsSoftware\\tds-averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus Desktop\\Source\\Repos\\TdsSoftware\\tds-averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
         "projectName": "TDS.Averbacao",
-        "projectPath": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
+        "projectPath": "C:\\Users\\Matheus Desktop\\Source\\Repos\\TdsSoftware\\tds-averbacao\\TDS.Averbacao\\TDS.Averbacao.csproj",
         "packagesPath": "C:\\Users\\Matheus Desktop\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\TDS.Averbacao\\TDS.Averbacao\\obj\\",
+        "outputPath": "C:\\Users\\Matheus Desktop\\Source\\Repos\\TdsSoftware\\tds-averbacao\\TDS.Averbacao\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
