@@ -10,3 +10,4 @@ C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\bi
 C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.csproj.CoreCompileInputs.cache
 C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.dll
 C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.pdb
+C:\Users\Matheus Desktop\Source\Repos\TdsSoftware\tds-averbacao\TDS.Averbacao\obj\Debug\TDS.Averbacao.csprojAssemblyReference.cache

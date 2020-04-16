@@ -8,7 +8,7 @@ namespace TDS.Averbacao.Services
         public static readonly ATMWebSvr client = new ATMWebSvr();
 
         [DllExport]
-        public static string AverbarCTe(string usuario, string senha, string codAtm, string tipoDoc, string xml)
+        public static string Averbar(string usuario, string senha, string codAtm, string tipoDoc, string xml)
         {
             if (tipoDoc == "CT")
             {
