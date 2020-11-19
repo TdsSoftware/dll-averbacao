@@ -10,6 +10,8 @@ namespace TDS.Averbacao.Services
         [DllExport]
         public static string Averbar(string usuario, string senha, string codAtm, string tipoDoc, string xml)
         {
+            System.Net.ServicePointManager.Expect100Continue = false;
+
             if (tipoDoc == "CT")
             {
                 return client.averbaCTe(usuario, senha, codAtm, xml).Serialize<Retorno>();
